@@ -1,0 +1,6 @@
+@YouDine.Api_HostAddress = http://localhost:5125
+
+GET {{YouDine.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

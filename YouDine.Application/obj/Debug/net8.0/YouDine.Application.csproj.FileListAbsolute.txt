@@ -1,0 +1,15 @@
+D:\Projetos\YourDinner\YouDine\YouDine.Application\bin\Debug\net8.0\YouDine.Application.deps.json
+D:\Projetos\YourDinner\YouDine\YouDine.Application\bin\Debug\net8.0\YouDine.Application.dll
+D:\Projetos\YourDinner\YouDine\YouDine.Application\bin\Debug\net8.0\YouDine.Application.pdb
+D:\Projetos\YourDinner\YouDine\YouDine.Application\obj\Debug\net8.0\YouDine.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\YourDinner\YouDine\YouDine.Application\obj\Debug\net8.0\YouDine.Application.AssemblyInfoInputs.cache
+D:\Projetos\YourDinner\YouDine\YouDine.Application\obj\Debug\net8.0\YouDine.Application.AssemblyInfo.cs
+D:\Projetos\YourDinner\YouDine\YouDine.Application\obj\Debug\net8.0\YouDine.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\YourDinner\YouDine\YouDine.Application\obj\Debug\net8.0\YouDine.Application.dll
+D:\Projetos\YourDinner\YouDine\YouDine.Application\obj\Debug\net8.0\refint\YouDine.Application.dll
+D:\Projetos\YourDinner\YouDine\YouDine.Application\obj\Debug\net8.0\YouDine.Application.pdb
+D:\Projetos\YourDinner\YouDine\YouDine.Application\obj\Debug\net8.0\ref\YouDine.Application.dll
+D:\Projetos\YourDinner\YouDine\YouDine.Application\bin\Debug\net8.0\YouDine.Domain.dll
+D:\Projetos\YourDinner\YouDine\YouDine.Application\bin\Debug\net8.0\YouDine.Domain.pdb
+D:\Projetos\YourDinner\YouDine\YouDine.Application\obj\Debug\net8.0\YouDine.Application.csproj.AssemblyReference.cache
+D:\Projetos\YourDinner\YouDine\YouDine.Application\obj\Debug\net8.0\YouDine..16705BBE.Up2Date

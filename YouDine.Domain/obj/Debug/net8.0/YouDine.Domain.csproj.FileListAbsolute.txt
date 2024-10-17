@@ -1,0 +1,11 @@
+D:\Projetos\YourDinner\YouDine\YouDine.Domain\bin\Debug\net8.0\YouDine.Domain.deps.json
+D:\Projetos\YourDinner\YouDine\YouDine.Domain\bin\Debug\net8.0\YouDine.Domain.dll
+D:\Projetos\YourDinner\YouDine\YouDine.Domain\bin\Debug\net8.0\YouDine.Domain.pdb
+D:\Projetos\YourDinner\YouDine\YouDine.Domain\obj\Debug\net8.0\YouDine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\YourDinner\YouDine\YouDine.Domain\obj\Debug\net8.0\YouDine.Domain.AssemblyInfoInputs.cache
+D:\Projetos\YourDinner\YouDine\YouDine.Domain\obj\Debug\net8.0\YouDine.Domain.AssemblyInfo.cs
+D:\Projetos\YourDinner\YouDine\YouDine.Domain\obj\Debug\net8.0\YouDine.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\YourDinner\YouDine\YouDine.Domain\obj\Debug\net8.0\YouDine.Domain.dll
+D:\Projetos\YourDinner\YouDine\YouDine.Domain\obj\Debug\net8.0\refint\YouDine.Domain.dll
+D:\Projetos\YourDinner\YouDine\YouDine.Domain\obj\Debug\net8.0\YouDine.Domain.pdb
+D:\Projetos\YourDinner\YouDine\YouDine.Domain\obj\Debug\net8.0\ref\YouDine.Domain.dll

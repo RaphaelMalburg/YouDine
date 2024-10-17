@@ -1,0 +1,11 @@
+D:\Projetos\YourDinner\YouDine\YouDine.Contracts\bin\Debug\net8.0\YouDine.Contracts.deps.json
+D:\Projetos\YourDinner\YouDine\YouDine.Contracts\bin\Debug\net8.0\YouDine.Contracts.dll
+D:\Projetos\YourDinner\YouDine\YouDine.Contracts\bin\Debug\net8.0\YouDine.Contracts.pdb
+D:\Projetos\YourDinner\YouDine\YouDine.Contracts\obj\Debug\net8.0\YouDine.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\YourDinner\YouDine\YouDine.Contracts\obj\Debug\net8.0\YouDine.Contracts.AssemblyInfoInputs.cache
+D:\Projetos\YourDinner\YouDine\YouDine.Contracts\obj\Debug\net8.0\YouDine.Contracts.AssemblyInfo.cs
+D:\Projetos\YourDinner\YouDine\YouDine.Contracts\obj\Debug\net8.0\YouDine.Contracts.csproj.CoreCompileInputs.cache
+D:\Projetos\YourDinner\YouDine\YouDine.Contracts\obj\Debug\net8.0\YouDine.Contracts.dll
+D:\Projetos\YourDinner\YouDine\YouDine.Contracts\obj\Debug\net8.0\refint\YouDine.Contracts.dll
+D:\Projetos\YourDinner\YouDine\YouDine.Contracts\obj\Debug\net8.0\YouDine.Contracts.pdb
+D:\Projetos\YourDinner\YouDine\YouDine.Contracts\obj\Debug\net8.0\ref\YouDine.Contracts.dll

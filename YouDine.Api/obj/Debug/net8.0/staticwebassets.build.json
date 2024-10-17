@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZD0iNWAAFFVXK5V7dcE8fOrix1CWs7M7MS+CcCKU1CA=",
+  "Source": "YouDine.Api",
+  "BasePath": "_content/YouDine.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
